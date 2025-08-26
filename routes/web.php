@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\controllerkontak;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\EventController;
 use App\Http\Controllers\GalleryController;
@@ -12,6 +13,7 @@ Route::get('/', function () {
 Route::resource('events', EventController::class);
 Route::resource('galleries', GalleryController::class);
 Route::resource('merchandises', MerchandiseController::class);
+Route::resource('Kontak', controllerkontak::class);
 
 
 

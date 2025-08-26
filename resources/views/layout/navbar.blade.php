@@ -9,10 +9,10 @@
         <!-- Menu -->
         <ul class="hidden md:flex space-x-8 font-medium">
             <li><a href="/" class="hover:text-red-500 transition">Home</a></li>
-            <li><a href="/event" class="hover:text-red-500 transition">Event</a></li>
-            <li><a href="/gallery" class="hover:text-red-500 transition">Gallery</a></li>
-            <li><a href="/about" class="hover:text-red-500 transition">About</a></li>
-            <li><a href="/contact" class="hover:text-red-500 transition">Contact</a></li>
+            <li><a href="/events" class="hover:text-red-500 transition">Event</a></li>
+            <li><a href="/galleries" class="hover:text-red-500 transition">Gallery</a></li>
+            <li><a href="/merchandises" class="hover:text-red-500 transition">Merchandise</a></li>
+            <li><a href="/Kontak" class="hover:text-red-500 transition">Kontak</a></li>
         </ul>
 
         <!-- Button -->
